@@ -1,15 +1,6 @@
 # linktree
-## linktree
-### linktree
+## A simple, personalized linktree - 100% free to use!
 
-**bold**
-*test*
+If you need help, Support or just have questions, contact me [here](https://discord.com/users/1215682123219079259)
 
-[Linktext](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFlqa7Kso7R6Tvu9hPCHUqgTSOWhu6C_pdnw&s)
-![Bildbeschreibung](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFlqa7Kso7R6Tvu9hPCHUqgTSOWhu6C_pdnw&s)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-```html
-<h1>Hallo</h1>
-```
+**more comming soon...**
