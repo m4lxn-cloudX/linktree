@@ -2,12 +2,12 @@
 
 //Fill in your date here.
 const TEXT_REPLACEMENTS = {
-  'UserName': 'Glaskop',
+  'UserName': 'Milan',
 };
 
 //Fill in your profile picture path, here. If you have another data type, just type the data type. For example, profile.jpeg -> profile.png .
 const IMAGE_REPLACEMENTS = {
-  'ProfilePicture': './assets/img/individually/profile.jpeg',
+  'ProfilePicture': '../../assets/img/individually/profile.jpeg',
 };
 
 //Fill in your social media locations here. Only edit after >>window.open('<< and stop before >>', '_blank');<<. 
@@ -18,10 +18,11 @@ const ONCLICK_REPLACEMENTS = {
   'tiktok': "window.open('https://www.tiktok.com/@milan_.1410', '_blank');",
   'spotify': "window.open('https://open.spotify.com/user/31pi3ohexpsdoho4yrktnbnlyd6u?si=6c370749be9f449e', '_blank');",
   'snapchat': "window.open('https://www.snapchat.com/@milan_angus', '_blank');",
+  'github': "window.open('https://github.com/m4lxn-cloudX', '_blank');",
 };
 
 //Choose the picture you want as your body background, and paste the path here. If you don't want a background, just leave it as an empty string.
-const BACKGROUND = './assets/img/individually/Background.webP';
+const BACKGROUND = '../../assets/img/individually/Background.webP';
 
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
