@@ -14,9 +14,9 @@ If you need help, Support or just have questions, contact me [here](https://disc
 
 5. Go to *assets/js/* and open **fillin.js** with Visual Studio Code, if installed or the text editor. 
 Now you should see something like this:
-![-](assets/img/Screenshot%202026-04-03%20084831.png)
+![-](assets/img/Screenshot%20fillin.js%20for%20readme.md.png)
 
-6. Now you just follow the instructions in the fillin.js file and save the file with *file -> save* or just *CTRL + S*.
+6. Now you just follow the instructions in the [fillin.js](https://github.com/m4lxn-cloudX/linktree/blob/main/assets/js/fillin.js) file and save the file with *file -> save* or just *CTRL + S*.
 
 ----
 
