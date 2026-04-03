@@ -2,7 +2,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -22,7 +21,6 @@ body {
     padding-top: 20px;
     width: 42.5vh;
     height: auto;
-
     margin-top: 20px;
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(20px) saturate(180%);
