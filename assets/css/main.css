@@ -14,6 +14,7 @@ body {
     position: relative;
     z-index: 1;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
@@ -22,7 +23,7 @@ body {
     width: auto;
     min-width: 42.5vh;
     max-width: 80vh;
-    height: 600px;
+    height: 700px;
 
     margin-top: 20px;
     background: rgba(255, 255, 255, 0.15);
@@ -82,9 +83,9 @@ body {
 }
 
 .socialgrid {
-    display: flex;
+    display: grid;
+    grid-template-columns: 40px 1fr;
     align-items: center;
-    justify-content: center;
     background: rgba(255,255,255,0.4);
     border: 1px solid rgba(255,255,255,0.55);
     border-radius: 999px;
@@ -95,15 +96,20 @@ body {
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+.socialgrid a {
+    font-size: 16px;
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+}
+
 .socialgrid:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 9px rgba(0,0,0,0.2);
     cursor: pointer;
 }
 
-.socialgrid a {
-    font-size: 16px;
-    color: #000;
-    text-decoration: none;
-    margin-left: 10px;
+.footer {
+    margin-top: 8px;
+    text-align: center;
 }
