@@ -1,5 +1,4 @@
 body {
-    min-height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,10 +19,9 @@ body {
 }
 
 .linktree {
-    width: auto;
-    min-width: 42.5vh;
-    max-width: 80vh;
-    height: 700px;
+    padding-top: 20px;
+    width: 42.5vh;
+    height: auto;
 
     margin-top: 20px;
     background: rgba(255, 255, 255, 0.15);
@@ -38,12 +36,8 @@ body {
 }
 
 .profile-content {
-    width: auto;
-    min-width: 30vh;
-    max-width: 60vh;
-    height: auto;
-    min-height: 20vh;
-    max-height: 30vh;
+    width: 30vh;
+    height: 25vh;
 
     display: flex;
     flex-direction: column;
@@ -61,7 +55,7 @@ body {
 .profile-picture {
     height: 90px;
     width: 90px;
-    border-radius: 30px;
+    border-radius: 20px;
     object-fit: cover;
     box-shadow: 0 8px 20px rgba(0,0,0,0.2);
 }
