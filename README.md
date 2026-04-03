@@ -2,6 +2,7 @@
 
 If you need help, Support or just have questions, contact me [here](https://discord.com/users/1215682123219079259).
 
+----
 
 1. Click on [this](https://github.com/m4lxn-cloudX/linktree) site on the green button **<> Code** and click **Download Zip**.
 
@@ -19,5 +20,6 @@ Now you should see something like this:
 
 -> If you are having problems with the instrcutions, feel free to contact me [here](https://discord.com/users/1215682123219079259).
 
+----
 
 **more comming soon...**
