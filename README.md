@@ -2,14 +2,22 @@
 
 If you need help, Support or just have questions, contact me [here](https://discord.com/users/1215682123219079259).
 
-1. Click on [this](https://github.com/m4lxn-cloudX/linktree) site you on the green button **<> Code** and click **Download Zip**.
+
+1. Click on [this](https://github.com/m4lxn-cloudX/linktree) site on the green button **<> Code** and click **Download Zip**.
+
 2. Go into your downloads and extract the files.
-3. Move the files to a save place, where its safe and not getting deleted. For example, i am using *Documents/GitHub/Projects*.
-4. Open [Index.html](https://github.com/m4lxn-cloudX/linktree/blob/main/index.html) in a localhost and see if everything is working. You should now see the personal linktree of milan.
+
+3. Move the files to a save place, where its safe and not getting deleted. For example, i am using *Documents/GitHub/projects/*.
+
+4. Open [Index.html](https://github.com/m4lxn-cloudX/linktree/blob/main/index.html) in a localhost and see if everything is working. You should now see a personal linktree with already filled in Data.
+
 5. Go to *assets/js/* and open **fillin.js**. 
-Now you should see something like thist:
+Now you should see something like this:
 ![-](assets/img/Screenshot%202026-04-03%20084831.png)
-6. Now you just follow the instructions in the fillin.js file and save the file with *file -> save* or just *CTRL + S*
+
+6. Now you just follow the instructions in the fillin.js file and save the file with *file -> save* or just *CTRL + S*.
+
+-> If you are having problems with the instrcutions, feel free to contact me [here](https://discord.com/users/1215682123219079259).
 
 
 **more comming soon...**
