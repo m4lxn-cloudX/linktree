@@ -17,6 +17,7 @@ const ONCLICK_REPLACEMENTS = {
   'instagram': "window.open('https://www.instagram.com/milan_.1410/', '_blank');",
   'tiktok': "window.open('https://www.tiktok.com/@milan_.1410', '_blank');",
   'spotify': "window.open('https://open.spotify.com/user/31pi3ohexpsdoho4yrktnbnlyd6u?si=6c370749be9f449e', '_blank');",
+  'snapchat': "window.open('https://www.snapchat.com/add/milan_.1410', '_blank');",
 };
 
 //Choose the picture you want as your body background, and paste the path here. If you don't want a background, just leave it as an empty string.
