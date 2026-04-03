@@ -14,6 +14,7 @@ const IMAGE_REPLACEMENTS = {
 // For example, if your Instagram is https://www.instagram.com/milan_.1410/, then you would only paste your link in the underlined part >>window.open('https://www.instagram.com/milan_.1410/', '_blank');<<.
 const ONCLICK_REPLACEMENTS = {
   'instagram': "window.open('https://www.instagram.com/milan_.1410/', '_blank');",
+  'tiktok': "window.open('https://www.tiktok.com/@milan_.1410', '_blank');",
 };
 
 //Choose the picture you want as your body background, and paste the path here. If you don't want a background, just leave it as an empty string.
