@@ -16,6 +16,8 @@ const ONCLICK_REPLACEMENTS = {
   'instagram': "window.open('https://www.instagram.com/milan_.1410/', '_blank');",
 };
 
+//Choose the picture you want as your body background, and paste the path here. If you don't want a background, just leave it as an empty string.
+const BACKGROUND = './assets/img/individually/Background.webP';
 
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,5 +42,9 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!handler) continue;
     const el = document.getElementById(id);
     if (el) el.setAttribute('onclick', handler);
+  }
+
+  if (BACKGROUND) {
+    document.body.style.backgroundImage = `url('${BACKGROUND}')`;
   }
 });

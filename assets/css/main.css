@@ -3,9 +3,16 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .content {
+    position: relative;
+    z-index: 1;
     width: 100%;
     max-width: 100%;
     display: flex;
@@ -14,16 +21,35 @@ body {
 }
 
 .linktree {
+    width: auto;
+    min-width: 40vh;
+    max-width: 80vh;
+    height: auto;
+    min-height: 70vh;
+    max-height: 80vh;
+
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    border-radius: 15px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
     height: 500px;
     width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 1px solid black;
 }
 
 .profile-content {
+    width: auto;
+    min-width: 20vh;
+    max-width: 40vh;
+    height: auto;
+    min-height: 35vh;
+    max-height: 40vh;
+
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -38,4 +64,8 @@ body {
     height: 75px;
     width: 75px;
     border-radius: 100px;
+}
+
+.profile-picture:hover {
+    cursor: pointer;
 }
