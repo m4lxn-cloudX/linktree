@@ -4,19 +4,19 @@ If you need help, Support or just have questions, contact me [here](https://disc
 
 ----
 
-### 1. Click on [this](https://github.com/m4lxn-cloudX/linktree) site on the green button **<> Code** and click **Download Zip**.
+1. Click on [this](https://github.com/m4lxn-cloudX/linktree) site on the green button **<> Code** and click **Download Zip**.
 
-### 2. Go into your downloads and extract the files.
+2. Go into your downloads and extract the files.
 
-### 3. Move the files to a save place, where its safe and not getting deleted. For example, i am using *Documents/GitHub/projects/*.
+3. Move the files to a save place, where its safe and not getting deleted. For example, i am using *Documents/GitHub/projects/*.
 
-### 4. Open [Index.html](https://github.com/m4lxn-cloudX/linktree/blob/main/index.html) in a [localhost](https://www.youtube.com/watch?v=_Tl-6HeV0Rc) and see if everything is working. You should now see a personal linktree with already filled in Data.
+4. Open [Index.html](https://github.com/m4lxn-cloudX/linktree/blob/main/index.html) in a [localhost](https://www.youtube.com/watch?v=_Tl-6HeV0Rc) and see if everything is working. You should now see a personal linktree with already filled in Data.
 
-### 5. Go to *assets/js/* and open **fillin.js** with Visual Studio Code, if installed or the text editor. 
+5. Go to *assets/js/* and open **fillin.js** with Visual Studio Code, if installed or the text editor. 
 Now you should see something like this:
 ![-](assets/img/Screenshot%202026-04-03%20084831.png)
 
-### 6. Now you just follow the instructions in the fillin.js file and save the file with *file -> save* or just *CTRL + S*.
+6. Now you just follow the instructions in the fillin.js file and save the file with *file -> save* or just *CTRL + S*.
 
 ----
 
