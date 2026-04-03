@@ -7,7 +7,7 @@ const TEXT_REPLACEMENTS = {
 
 //Fill in your profile picture path, here. If you have another data type, just type the data type. For example, profile.jpeg -> profile.png .
 const IMAGE_REPLACEMENTS = {
-  'ProfilePicture': '../../assets/img/individually/profile.jpeg',
+  'ProfilePicture': 'assets/img/individually/profile.jpeg',
 };
 
 //Fill in your social media locations here. Only edit after >>window.open('<< and stop before >>', '_blank');<<. 
@@ -22,7 +22,7 @@ const ONCLICK_REPLACEMENTS = {
 };
 
 //Choose the picture you want as your body background, and paste the path here. If you don't want a background, just leave it as an empty string.
-const BACKGROUND = '../../assets/img/individually/Background.webP';
+const BACKGROUND = 'assets/img/individually/Background.webp';
 
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
