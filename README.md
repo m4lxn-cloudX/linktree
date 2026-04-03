@@ -18,7 +18,9 @@ Now you should see something like this:
 
 6. Now you just follow the instructions in the fillin.js file and save the file with *file -> save* or just *CTRL + S*.
 
--> If you are having problems with the instrcutions, feel free to contact me [here](https://discord.com/users/1215682123219079259).
+----
+
+-> If you are having issues with the script problems with the instrcutions, feel free to contact me [here](https://discord.com/users/1215682123219079259).
 
 ----
 
